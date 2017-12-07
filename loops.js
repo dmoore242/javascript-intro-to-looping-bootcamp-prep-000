@@ -9,7 +9,7 @@ function forLoop(array) {
 }
 
 function whileLoop(number) {
-  let countdown = n
+  let countdown = number
   while (countdown > 0) {
     console.log(--countdown);
     if (countdown===0) {
