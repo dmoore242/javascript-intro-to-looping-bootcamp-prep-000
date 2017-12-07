@@ -24,7 +24,7 @@ function doWhileLoop(array) {
     console.log(Math.random() >= 0.5 )
   }
   do{
-    conosle.log(maybeTrue)
+    console.log(maybeTrue)
   } while (array.length > 0 && maybeTrue());
   return array
 }
