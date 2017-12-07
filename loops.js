@@ -4,7 +4,7 @@ function forLoop(array) {
       array.push(`"I am ${i} strange loop"`)
     } else {
       array.push(`"I am ${i} strange loops."`)
-      console.log(array)
+      
     }
     
   }
@@ -18,6 +18,10 @@ function whileLoop(number) {
       return "done"
     }
   }
+}
+
+function doWhileLoop(array) {
+  
 }
 
 
